@@ -9,5 +9,5 @@ The Scientific Computing deals with key issues in the development and efficient 
 
 For more information check :
 
-- 
--
+- /project1/4994_prb1_2014.pdf
+- /project2/4994_prb2_2014.pdf
